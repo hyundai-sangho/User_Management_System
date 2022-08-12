@@ -1,0 +1,8 @@
+# 스펠 체커가 거른 단어
+.vscode
+
+# npm install로 설치가능
+node_modules
+
+# 포트 번호 설정
+config.env
